@@ -5,7 +5,7 @@
    - Baixe o aplicativo do Neander
    - Execute o Programa
 
-    Clique em Executar ou Passo-a-Passo para ver a execução linha por linha.
+   - Clique em Executar ou Passo-a-Passo para ver a execução linha por linha.
 
     A saída (geralmente mostrada em uma janela ou console de saída) vai exibir:
     7, 6, 5, 4, 3, 2, 1, 0
