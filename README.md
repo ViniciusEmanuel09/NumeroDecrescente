@@ -1,5 +1,5 @@
 
- ## Programa reduzindo numeros
+ # Programa reduzindo numeros
 ## Instruções de Uso 
 1. **Neanderwin**:
    - Baixe o aplicativo do Neander
