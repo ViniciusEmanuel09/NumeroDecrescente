@@ -2,7 +2,8 @@
   
 ## Instruções de Uso
 - Programa diminuindo Números 
-  1 **Neanderwin**:
+
+  1 **Neanderwin**
    - Baixe o aplicativo do Neander
    - Execute o Programa
 
